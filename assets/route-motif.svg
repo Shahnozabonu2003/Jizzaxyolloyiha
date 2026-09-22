@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="240" height="40" viewBox="0 0 240 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Route Motif (schematic, non-literal)" clip-path="url(#clip0_0_141)">
+<rect id="Rectangle" y="20" width="240" height="1" fill="white" fill-opacity="0.25"/>
+<circle id="Ellipse" cy="20" r="4" fill="white" fill-opacity="0.6"/>
+<circle id="Ellipse_2" cx="240" cy="20" r="4" fill="#C99A3D"/>
+</g>
+<defs>
+<clipPath id="clip0_0_141">
+<rect width="240" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
